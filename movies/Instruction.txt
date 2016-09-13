@@ -1,0 +1,16 @@
+Instructions to get this project running:
+1. clone this repository
+//do not miss any file in this directory.
+2. install python(>=2.6)
+3. open python interpreter
+4. type : python entertainment.py
+
+You must have some web-browser.
+This project opens in a web-browser displaying the files.
+//Please note, the poster link given in this project may not work, all are directed to youtube where you can see this trailor.
+//happy seeing movie trailer.
+
+Please contribute to this and increase the collection of posters and links of trailer of newly released films and see it
+getting displayed in this project.
+
+Create a Pull Request and I ll add it to the mainstream.
